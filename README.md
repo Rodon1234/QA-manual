@@ -1,0 +1,2 @@
+# QA-manual
+Hard skills
